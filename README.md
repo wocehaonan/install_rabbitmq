@@ -1,2 +1,2 @@
-# install_nginx_from_source.sh
-nginx一键部署脚本
+# install_rabbitmq.sh
+rabbitmq一键部署脚本
